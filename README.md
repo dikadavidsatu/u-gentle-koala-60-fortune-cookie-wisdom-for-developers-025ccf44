@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/dikadavidsatu/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/rank.svg)](https://make.fun/bounty/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44)
 [![reward](https://make.fun/badge/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/dikadavidsatu/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44/reward.svg)](https://make.fun/bounty/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44)
 
-One original fortune-cookie line for a software developer: the legacy code you refuse to delete today will review you, line by line, in production tomorrow. A small deterministic Node program writes the line to `entry.txt` and validates it against the 1–120 character gate before writing. Bounty: https://make.fun/bounty/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44
+One original fortune-cookie line for a software developer: every TODO you leave behind is a letter to a stranger who shares your name. A small deterministic Node program writes the line to `entry.txt` and validates it against the 1–120 character gate before writing. Bounty: https://make.fun/bounty/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44
 
 ## Run it
 
